@@ -1,7 +1,8 @@
 运行方式：
      将所有的文件包括（new_laser_data.mat）数据clone到本地目录，在matlab中打开main.m文件，点击运行即可看到运行效果
      
-     参考简介：代码介绍（https://zhuanlan.zhihu.com/p/51617565），matlab下bag文件数据提取（https://zhuanlan.zhihu.com/p/51577331）
+     参考简介：代码介绍（https://zhuanlan.zhihu.com/p/51617565）
+              matlab下bag文件数据提取（https://zhuanlan.zhihu.com/p/51577331）
 1.SetLidarParameters.m
 作用：设置激光雷达的扫描参数（扫描角度范围，扫描距离范围，角度增量等）
 2.ReadAScan.m
